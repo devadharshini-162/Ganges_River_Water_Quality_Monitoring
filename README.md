@@ -20,12 +20,13 @@ This project visualizes the Ganges River's water quality and predicts pollution 
 1. Clone the repo:
 ```bash
 git clone https://github.com/devadharshini-162/Ganges_River_Water_Quality_Monitoring.git
-
-Install Dependencies
+```
+2. Install Dependencies
 ```bash
 cd Ganges_River_Water_Quality_Monitoring
 npm install
-
-Run Locally
+```
+3. Run Locally
 ```bash
 npm run dev
+```
