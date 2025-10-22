@@ -30,3 +30,5 @@ npm install
 ```bash
 npm run dev
 ```
+4. Design file link of our Water Sampling Mechanism
+👉🏻[Drive Link for Design file][https://drive.google.com/drive/folders/1egzbJ_46DjWGXScswsXylWtftYROebGx?usp=drive_link]
